@@ -1,5 +1,7 @@
 # McGill Physics Hackathon (2020) - Mathematical Modeling of Animal Patterns
 
+*Team Members: William Choi, Ivan Zinin*
+
 This is our entry for the McGill Physics Hackathon (2020). We built a numerical model to generate patterns commonly seen on animals, fish and flora. Our approach uses a reaction-diffusion model orininally proposed by Alan Turing [1]. We focued mainly on the Gray-Scott model and produced a bunch of graphics which can be seen in the 'output' folder.
 
 <p align="center">
